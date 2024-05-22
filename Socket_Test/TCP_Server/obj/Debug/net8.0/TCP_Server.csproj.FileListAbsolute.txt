@@ -1,0 +1,15 @@
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\bin\Debug\net8.0\TCP_Server.exe
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\bin\Debug\net8.0\TCP_Server.deps.json
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\bin\Debug\net8.0\TCP_Server.runtimeconfig.json
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\bin\Debug\net8.0\TCP_Server.dll
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\bin\Debug\net8.0\TCP_Server.pdb
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfoInputs.cache
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfo.cs
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.csproj.CoreCompileInputs.cache
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.sourcelink.json
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.dll
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\refint\TCP_Server.dll
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.pdb
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\TCP_Server.genruntimeconfig.cache
+D:\GitHub\NGO_SDLU\Socket_Test\TCP_Server\obj\Debug\net8.0\ref\TCP_Server.dll

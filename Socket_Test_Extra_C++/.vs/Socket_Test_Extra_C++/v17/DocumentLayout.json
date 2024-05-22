@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D52031A-3614-4BC1-9C21-CDB3EBE35975}|Server\\Server.vcxproj|D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D52031A-3614-4BC1-9C21-CDB3EBE35975}|Server\\Server.vcxproj|solutionrelative:Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A039BB-4C8B-4DC2-A085-E24D6A03D100}|Client\\Client.vcxproj|D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A039BB-4C8B-4DC2-A085-E24D6A03D100}|Client\\Client.vcxproj|solutionrelative:Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Server\\Server.cpp",
+              "RelativeDocumentMoniker": "Server\\Server.cpp",
+              "ToolTip": "D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Server\\Server.cpp",
+              "RelativeToolTip": "Server\\Server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T08:29:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Client\\Client.cpp",
+              "RelativeDocumentMoniker": "Client\\Client.cpp",
+              "ToolTip": "D:\\GitHub\\NGO_SDLU\\Socket_Test_Extra_C\u002B\u002B\\Client\\Client.cpp",
+              "RelativeToolTip": "Client\\Client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T08:29:10.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

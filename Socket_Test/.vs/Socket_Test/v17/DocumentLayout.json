@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\NGO_SDLU\\Socket_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CDE7D1-9063-42E8-8B97-479A368101BF}|TCP_Server\\TCP_Server.csproj|d:\\github\\ngo_sdlu\\socket_test\\tcp_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CDE7D1-9063-42E8-8B97-479A368101BF}|TCP_Server\\TCP_Server.csproj|solutionrelative:tcp_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F242A9-A037-4F12-8352-79735EA3CECD}|TCP_Client\\TCP_Client.csproj|d:\\github\\ngo_sdlu\\socket_test\\tcp_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F242A9-A037-4F12-8352-79735EA3CECD}|TCP_Client\\TCP_Client.csproj|solutionrelative:tcp_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\GitHub\\NGO_SDLU\\Socket_Test\\TCP_Server\\Server.cs",
+              "RelativeDocumentMoniker": "TCP_Server\\Server.cs",
+              "ToolTip": "D:\\GitHub\\NGO_SDLU\\Socket_Test\\TCP_Server\\Server.cs",
+              "RelativeToolTip": "TCP_Server\\Server.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:30:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\GitHub\\NGO_SDLU\\Socket_Test\\TCP_Client\\Client.cs",
+              "RelativeDocumentMoniker": "TCP_Client\\Client.cs",
+              "ToolTip": "D:\\GitHub\\NGO_SDLU\\Socket_Test\\TCP_Client\\Client.cs",
+              "RelativeToolTip": "TCP_Client\\Client.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:30:30.748Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

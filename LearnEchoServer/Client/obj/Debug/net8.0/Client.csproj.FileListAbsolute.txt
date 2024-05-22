@@ -1,0 +1,15 @@
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\bin\Debug\net8.0\Client.exe
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\bin\Debug\net8.0\Client.deps.json
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\bin\Debug\net8.0\Client.dll
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\bin\Debug\net8.0\Client.pdb
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.sourcelink.json
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.dll
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\refint\Client.dll
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.pdb
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\GitHub\NGO_SDLU\LearnEchoServer\Client\obj\Debug\net8.0\ref\Client.dll

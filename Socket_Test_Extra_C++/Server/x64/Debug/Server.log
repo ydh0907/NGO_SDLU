@@ -1,0 +1,4 @@
+﻿  Server.cpp
+Server.obj : error LNK2019: unresolved external symbol __imp_closesocket referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+D:\GitHub\NGO_SDLU\Socket_Test_Extra_C++\x64\Debug\Server.exe : fatal error LNK1120: 2 unresolved externals
